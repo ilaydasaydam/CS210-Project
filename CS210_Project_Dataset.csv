@@ -1,0 +1,86 @@
+Kod,Ürün,Miktar,Alış,Miktar Satılan,Satış Fiyat
+0001,Gümüş Yıldız Küpe,15,"35,00",10,125
+0002,Gümüş Üçlü İç İçe Halka Küpe,15,"35,00",6,125
+0003,Altın Üçlü İç İçe Halka Küpe,15,"35,00",5,125
+0004,Gümüş Üçlü Halk Küpe,15,"35,00",9,125
+0005,Gümüş Üçlü Halk Küpe,15,"35,00",9,125
+0006,Altın Kalpli-Taşlı Küpe,5,"35,00",2,125
+0007,Gümüş Kalpli-Taşlı Küpe,5,"35,00",1,125
+0008,Gümüş Kar Tanesi Küpe,8,"35,00",4,125
+0009,Altın Kar Tanesi Küpe,5,"35,00",3,125
+0010,Gümüş Sedef Yonca,3,"35,00",1,125
+0011,Altın Sedef Yonca,3,"35,00",2,125
+0012,Gümüş Taşlı Tiffany,15,"60,00",7,180
+0013,Altın Taşlı Tiffany,15,"60,00",7,180
+0014,Gümüş İncili Oval Küpe,10,"45,00",6,150
+0015,Altın İncili Oval Küpe,10,"45,00",6,150
+0016,Altın Sedef Oval,2,"45,00",1,150
+0017,Altın Üçlü Sarkan,25,"45,00",15,150
+0018,Gümüş Çift Halkalı ,20,"30,00",10,150
+0019,Altın Çift Halkalı ,20,"30,00",13,150
+0020,Gümüş Su Yolu Halka,25,"45,00",17,165
+0021,Altın Su Yolu,25,"45,00",22,165
+0022,Altın Chanel Model Halka,15,"45,00",11,165
+0023,Gümüş Taşlı Karemsi Halka,5,"45,00",2,165
+0024,Altın Taşlı Karemsi Halka,5,"45,00",1,165
+0025,Altın Kare Nazar Boncuğu,1,"46,75",0,165
+0026,Gümüş Yuvarlak,10,"46,75",7,165
+0027,Altın Hasır Halka,2,"55,25",1,180
+0028,Altın Üçlü Taşlı Altın Detaylı,10,"70,00",4,210
+1001,Gümüş Üçlü Taşlı Bilezik,5,"35,00",4,135
+1002,Altın Bağlamalı İnci Zincir,20,"45,00",11,125
+1003,Altın Üçlü Zincir,5,"45,00",3,180
+1004,Altın Düğümlü Zincir,30,"45,00",20,150
+1005,Gümüş Düğümlü Zincir,30,"45,00",22,150
+1006,Gümüş Su Yolu Bilezik,40,"55,00",26,180
+1007,Altın Su Yolu Bilezik,40,"75,00",33,220
+1008,Gümüş Sprial Taşlı Bilezik,35,"70,00",23,220
+1009,Gümüş Daireli Taşlı Bilezik,35,"70,00",19,220
+1010,Kalın Kelepçe Gonca,2,"72,25",0,250
+1011,Altın Kemik,20,"59,50",11,200
+1012,Altın Pandora,1,"59,50",0,200
+1013,Altın Taşlı Kalın ,5,"70,00",4,220
+1014,3lü ince bilezik,10,"68,00",6,200
+1015,Gümüş Pandora,1,"51,00",1,150
+1016,Gümüş Tiffany Bilezik,5,"70,00",4,220
+1017,Altın Tiffany Bilezik,10,"70,00",5,220
+1018,Gümüş Tiffany Taşlı Bilezik,2,"80,00",2,230
+1019,Altın Tiffany Taşlı Bilezik,1,"80,00",1,230
+1020,Gümüş Damla Taşlı Su Yolu Bilezik,20,"55,00",14,180
+1021,Altın Damla TaşlıSu Yolu Bilezik,20,"55,00",13,180
+1022,Altın Pandora,1,"51,00",1,180
+1023,Altın Kelepçe Cartier Model,5,"65,00",4,200
+1024,Gümüş Kelepçe Cartier Model,5,"65,00",3,200
+1025,Altın Kelepçe Cartier Model Taşlı,5,"65,00",2,200
+1026,Gümüş Kelepçe Cartier Model Taşlı,5,"65,00",4,200
+2001,Altın Damla Taşlı ,15,"45,00",9,200
+2002,Gümüş Damla Taşlı,10,"45,00",8,200
+2003,Altın İnce Burgu,15,"45,00",11,150
+2004,Altın Orta Kalın Burgu,15,"45,00",13,180
+2005,Altın Yıldız,5,"45,00",4,150
+2006,Gümüş Kar Tanesi,10,"45,00",8,150
+2007,Altın Düğüm İtalyan,10,"45,00",9,150
+2008,Altın İkili İtalyan ve Taş,15,"45,00",13,150
+2009,Altın Minimal Bambu,10,"68,00",10,180
+2010,Gümüş Minimal Bambu,5,"68,00",4,180
+2011,Gümüş Minimal Küçük,15,"50,00",13,165
+2012,Gümüş Siyah Yonca,10,"72,25",7,165
+2013,Gümüş Yeşil Beyaz Taşlı ,10,"46,75",8,165
+2014,Altın Damla Çelik,15,"45,00",13,165
+2015,Gümüş Damla,10,"45,00",5,165
+2016,Altın Zincir Kalın,20,"35,00",7,150
+2017,Altın Zincir Orta,20,"35,00",9,150
+2018,Altın Zincir İnce,20,"35,00",10,150
+2019,Gümüş Zincir Kalın,20,"35,00",13,150
+2020,Gümüş Zincir Orta,20,"35,00",15,150
+2021,Gümüş Zincir İnce,20,"35,00",18,150
+2022,Altın Su Yolu Baget,20,"45,00",7,200
+2023,Gümüş Su Yolu Baget,20,"45,00",6,200
+2024,Altın Su Yolu Damla,20,"45,00",5,200
+2024,Gümüş Su Yolu Damla,20,"45,00",11,200
+2025,Altın Zincir Kalın Taşlı,20,"45,00",13,200
+2026,Altın Zincir Orta Taşlı,20,"45,00",5,200
+2027,Altın Zincir İnce Taşlı,20,"45,00",15,200
+2028,Gümüş Zincir Kalın Taşlı,20,"45,00",17,200
+2029,Gümüş Zincir Orta Taşlı,20,"45,00",9,200
+2030,Gümüş Zincir İnce Taşlı,20,"45,00",8,200
